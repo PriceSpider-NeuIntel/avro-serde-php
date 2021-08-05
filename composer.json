@@ -33,7 +33,7 @@
     "beberlei/assert": "^2.9.9|~3.0",
     "guzzlehttp/promises": "^1.4.0",
     "flix-tech/avro-php": "^4.1.0",
-    "flix-tech/confluent-schema-registry-api": "dev-master",
+    "pricespider-neuintel/confluent-schema-registry-api": "dev-feature/PWL-4641-update-guzzle",
     "widmogrod/php-functional": "^6.0"
   },
   "require-dev": {
